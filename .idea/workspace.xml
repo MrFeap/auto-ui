@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e610d05-1600-453b-a6f5-22c2305513ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AutomationDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AutomationDashboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProcessWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProcessWindow.java" afterDir="false" />
-    </list>
+    <list default="true" id="8e610d05-1600-453b-a6f5-22c2305513ad" name="Changes" comment="refactor: update package structure and enhance project dependencies" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +124,19 @@
       <option name="presentableId" value="Default" />
       <updated>1764945732865</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactor: update package structure and enhance project dependencies">
+      <option name="closed" value="true" />
+      <created>1769090589313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769090589313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor: update package structure and enhance project dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: update package structure and enhance project dependencies" />
   </component>
 </project>
